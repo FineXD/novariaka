@@ -702,4 +702,4 @@ async def on_message(message):
     await bot.process_commands(message)
 
 
-bot.run('MTM4NjY1NDEzMjU2MzIxNDQ4OA.GmpTZg.1GUta_wDAw63JRbVyyR4BFtfDTq6dqyRIbzv_g')
+bot.run('MTQ0MzcxNjA3NDIzODM4MjIyMg.G3RBP0._u5XfkZYABVynJ92QPznefEhMUgseZMf-WaFhY')
